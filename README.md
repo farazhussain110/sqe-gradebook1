@@ -9,3 +9,5 @@ Clone the repository:
 ```bash
 git clone git@github.com:YOUR-USERNAME/sqe-gradebook.git
 cd sqe-gradebook
+
+#HTML is very useful
